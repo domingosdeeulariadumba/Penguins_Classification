@@ -48,7 +48,7 @@ df = pd.read_csv('C:/Users/domingosdeeularia/Documents/notyourbusiness/CodingAnd
 
     '''
     Displaying the information of the dataset (including the first and last 
-    ten records)
+    five records)
     '''
 df.info()
 df.head()
